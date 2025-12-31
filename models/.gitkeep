@@ -1,0 +1,5 @@
+# Model weights directory
+# Place pre-trained model weights here:
+# - YOLOv8: yolov8n.pt (auto-downloaded)
+# - Custom plate detection: plate_detector.pt
+# - OCR models are managed by EasyOCR/PaddleOCR
